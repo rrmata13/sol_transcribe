@@ -1,0 +1,17 @@
+.DS_Store
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
